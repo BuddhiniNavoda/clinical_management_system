@@ -14,8 +14,13 @@
 
 I designed the user interfaces using Figma, following a specific color palette to maintain a consistent and professional look.
 
+![1](https://github.com/user-attachments/assets/cdeb145f-f22a-4b39-a3d7-7a3e18d5b638)
 
-![4](https://github.com/user-attachments/assets/e98d6e96-5b0a-41de-8712-1337649a1bee)
+![2](https://github.com/user-attachments/assets/76c1a971-2196-4846-b736-0040c25c2e19)
+
+![3](https://github.com/user-attachments/assets/2caeeca4-2f49-43fb-a7bc-993f607dbbc7)
+
+![4](https://github.com/user-attachments/assets/cf495723-95ff-4c31-b917-dc1fd6e5dc04)
 
 
 
@@ -23,4 +28,3 @@ ________________________________________________________________________________
 ## •	ER diagram
 
 Additionally, I created an Entity-Relationship (ER) diagram and mapped the relationships for this system, which are also attached below.
-![Relationship_mapping](https://github.com/user-attachments/assets/d100d4e9-a769-4953-8a78-0a01249475fd)
