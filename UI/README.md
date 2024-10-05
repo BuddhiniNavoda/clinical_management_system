@@ -1,5 +1,5 @@
 ## UI design
-![Home page](.\1.png)
+![Home page](./1.png)
 
 
 
